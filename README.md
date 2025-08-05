@@ -1,0 +1,1 @@
+# resumo-cloud-azure-pt3
